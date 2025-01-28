@@ -64,19 +64,19 @@
     *   Реализация истории изменения СИЗ
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/SecurityCode](https://github.com/7Hunter7/SecurityCode)
 
-### 3. System Integration (Vue.js / React)
+### 3. System Integration (HTML, CSS, JS)
 *   **Описание:** Адаптивная верстка сайта.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/System-Integration](https://github.com/7Hunter7/System-Integration)
 *   **Демо:** [https://system-integration.vercel.app/](https://system-integration.vercel.app/)
 
-### 4. THE-BRAND (React / Vue.js)
+### 4. THE-BRAND (HTML, CSS, JS)
 
-*   **Описание:** Адаптивная верстка сайта
+*   **Описание:** Верстка сайта
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/THE-BRAND_Light](https://github.com/7Hunter7/THE-BRAND_Light)
 *   **Демо:** [https://light-psi-lac.vercel.app/](https://light-psi-lac.vercel.app/)
 
 ### 5. Interno (Vue.js)
-*   **Описание:** Адаптивная верстка сайта на Vue.js
+*   **Описание:** Реализация проекта на Vue.js
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Interno](https://github.com/7Hunter7/Interno)
 *   **Демо:** [https://interno-blond.vercel.app/](https://interno-blond.vercel.app/)
 
