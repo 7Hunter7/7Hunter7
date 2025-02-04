@@ -15,10 +15,10 @@
 
 **Frontend:**
 *   Vue.js (Composition API, Vuex/Pinia, Vue Router)
-*   React
+*   React (React Redux, React Router)
 *   HTML5
 *   CSS3 (SCSS, BEM)
-*   JavaScript
+*   JavaScript (ECMAScript 2023)
 
 **Backend:**
 *   Node.js
@@ -33,8 +33,6 @@
 
 **Прочее:**
 *   Адаптивная и кроссбраузерная верстка
-*   Аналитическое мышление
-*   Работа в команде
 *   UX/UI дизайн
 
 ## Мои проекты:
@@ -99,7 +97,7 @@
     *  **Навыки:** JavaScript, Node.js, Postman, REST, RESTful API
 *   **JavaScript. Уровень 2. Продвинутый курс** (Январь 2024 - Май 2024):
     *    Получил навыки работы с объектами и функциями, циклами и массивами, DOM и событиями, шаблонизацией, JSON, медиа и API, асинхронностью.
-    *   **Навыки:** JavaScript, Express, Node.js
+    *   **Навыки:** JavaScript (ECMAScript 2023).
 
 ## Как связаться со мной:
 
