@@ -79,6 +79,12 @@
 *   **Ссылка на репозиторий:**: [https://github.com/7Hunter7/Inventory.git](https://github.com/7Hunter7/Inventory.git)
 *   **Демо:**: [https://www.inventory.app](https://iridescent-creponne-d14c43.netlify.app/)
 
+### 8. Seminar Management App
+*   **Описание:** Приложение для управления списком семинаров. Позволяет просматривать, добавлять, редактировать и удалять информацию о семинарах.
+*   **Ключевые особенности**: Компонентная структура, React Hooks, Data URL для хранения изображений, REST API на базе json-server.
+*   **Ссылка на репозиторий:**: [https://github.com/7Hunter7/Seminars.git](https://github.com/7Hunter7/Seminars.git)
+*   **Демо:** Демо отсутствует.
+
 ## Образование:
 
 *   **2022:** ЧОУ ДПО "Ивановский УЦ "Энергетик", Управление персоналом
