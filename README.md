@@ -84,7 +84,7 @@
 *   **Ссылка на репозиторий:**: [https://github.com/7Hunter7/Seminars.git](https://github.com/7Hunter7/Seminars.git)
 *   **Демо:** Демо отсутствует.
 
-### 8. Account management (Vue.js, TypeScript, Pinia, Vuetify)
+### 8. Accounts management (Vue.js, TypeScript, Pinia, Vuetify)
 *   **Описание:** Веб-приложение для управления учетными записями, разработанное на Vue.js 3 с использованием TypeScript, Pinia для управления состоянием и Vuetify для UI.
 *   **Ключевые особенности**: Добавление, редактирование и удаление учетных записей, валидация форм, динамическое отображение поля пароля, сохранение данных в Pinia с persist, использование интерфейса Account и преобразование меток.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Accounts-management.git](https://github.com/7Hunter7/Accounts-management.git)
