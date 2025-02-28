@@ -37,49 +37,44 @@
 
 ## Мои проекты:
 
-### 1. THE-BRAND (HTML, CSS, JS)
-*   **Описание:**  Адаптивная верстка веб-сайта THE-BRAND.
-*   **Ключевые особенности:** Адаптивный дизайн, верстка на основе макета Figma.
-*   **Ссылка на репозиторий:** [https://github.com/7Hunter7/THE-BRAND_Light](https://github.com/7Hunter7/THE-BRAND_Light)
-*   **Демо:** [https://www.the-brand.app/](https://light-psi-lac.vercel.app/)
 
-### 2. Interno (Vue.js)
+### 1. Interno (Vue.js)
 *   **Описание:** Веб-сайт “Interno” - демонстрация интерьерных решений, разработан на Vue.js.
 *   **Ключевые особенности:** Компонентная структура, Vue-Router для навигации, Vuex для управления состоянием.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Interno](https://github.com/7Hunter7/Interno)
 *   **Демо:** [https://www.interno.app/](https://interno-blond.vercel.app/)
 
-### 3.  SecurityCode (Vue.js, SQLite)
+### 2.  SecurityCode (Vue.js, SQLite)
 *   **Описание:** Веб-приложение для учета средств индивидуальной защиты (СИЗ), разработано на Vue.js с использованием SQLite для хранения данных (в разработке).
 *   **Ключевые особенности:**  Учет и инвентаризация СИЗ, формирование истории изменений, регистрация и аутентификация, разделение прав пользователей.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/SecurityCode](https://github.com/7Hunter7/SecurityCode)
 *   **Демо:** Демо отсутствует.
 
-### 4. System Integration (HTML, CSS, JS)
+### 3. System Integration (HTML, CSS, JS)
 *   **Описание:** Адаптивная верстка сайта “System Integration” с реализацией попап окон на чистом JavaScript.
 *   **Ключевые особенности:** Адаптивная верстка, динамическое позиционирование попапов, обработка событий на чистом JavaScript.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/System-Integration](https://github.com/7Hunter7/System-Integration)
 *   **Демо:** [https://www.system-integration.ru/](https://system-integration.vercel.app/)
 
-### 5. Statistic (HTML, CSS, JS)
+### 4. Statistic (HTML, CSS, JS)
 *   **Описание:** Демонстрация статистики продаж с использованием HTML, CSS, JS и Highcharts
 *   **Ключевые особенности:** Динамическая загрузка данных из JSON, расчет процентного изменения, плавное появление графиков при клике на строку таблицы.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Statistic](https://github.com/7Hunter7/Statistic)
 *   **Демо:** [https://www.statistic.app](http://ivankabx.beget.tech)
 
-### 6. Book App (Vue.js, Pinia)
+### 5. Book App (Vue.js, Pinia)
 *   **Описание:** Одностраничное приложение (SPA) для управления каталогом книг, разработано на Vue.js с использованием Composition API и Pinia для управления состоянием.
 *   **Ключевые особенности:** Адаптивный дизайн, добавление, редактирование и удаление книг, поиск по названию, валидация форм.
 *   **Ссылка на репозиторий:**  [https://github.com/7Hunter7/bookApp.git](https://github.com/7Hunter7/bookApp.git)
 *   **Демо:** Демо отсутствует.
 
-### 7. Inventory App (Vue.js 3, Pinia и SCSS)
+### 6. Inventory App (Vue.js 3, Pinia и SCSS)
 *   **Описание:** Веб-приложение для управления инвентарем, разработанное на Vue.js 3 с применением Pinia
 *   **Ключевые особенности**: drag-and-drop интерфейс, кастомные анимации, сохранение состояния, и удобные модальные окна c анимацией появления и скрытия.
 *   **Ссылка на репозиторий:**: [https://github.com/7Hunter7/Inventory.git](https://github.com/7Hunter7/Inventory.git)
 *   **Демо:**: [https://www.inventory.app](https://iridescent-creponne-d14c43.netlify.app/)
 
-### 8. Seminar Management App
+### 7. Seminar Management App
 *   **Описание:** Приложение для управления списком семинаров. Позволяет просматривать, добавлять, редактировать и удалять информацию о семинарах.
 *   **Ключевые особенности**: Компонентная структура, React Hooks, Data URL для хранения изображений, REST API на базе json-server.
 *   **Ссылка на репозиторий:**: [https://github.com/7Hunter7/Seminars.git](https://github.com/7Hunter7/Seminars.git)
