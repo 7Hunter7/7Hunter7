@@ -15,17 +15,21 @@
 
 **Frontend:**
 *   Vue.js (Composition API, Vuex/Pinia, Vue Router)
+*   Vuetify (UI фреймворк)
 *   React (React Redux, React Router)
 *   HTML5
 *   CSS3 (SCSS, BEM)
-*   JavaScript (ECMAScript 2023)
+*   JavaScript (ECMAScript 2023 - ECMAScript 2024)
+*   TypeScript
 
 **Backend:**
-*   Node.js
+*   Node.js (Express.js)
 *   REST API
 *   Работа с базами данных (SQLite, MongoDB)
 
 **Инструменты:**
+*   ESLint, Prettier (линтеры и форматировщики кода)
+*   Vite (как инструмент сборки)
 *   Git, GitHub
 *   Postman
 *   Docker
@@ -34,6 +38,7 @@
 **Прочее:**
 *   Адаптивная и кроссбраузерная верстка
 *   UX/UI дизайн
+*   Code Review
 
 ## Мои проекты:
 
