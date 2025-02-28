@@ -88,7 +88,7 @@
 *   **Описание:** Веб-приложение для управления учетными записями, разработанное на Vue.js 3 с использованием TypeScript, Pinia для управления состоянием и Vuetify для UI.
 *   **Ключевые особенности**: Добавление, редактирование и удаление учетных записей, валидация форм, динамическое отображение поля пароля, сохранение данных в Pinia с persist, использование интерфейса Account и преобразование меток.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Accounts-management.git](https://github.com/7Hunter7/Accounts-management.git)
-
+*   **Демо:** [https://account-managment.app](https://account-managment.netlify.app/)
 
 ## Образование:
 
