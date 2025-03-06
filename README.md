@@ -116,8 +116,7 @@
 *    **Основы Node.js** (Апрель 2024 - Июнь 2024):
       *    Работал серверную часть кода для получения данных пользователей на JavaScript с использованием Joi.
       *    Реализовано: получение, создание, обновление и удаление пользователей, обработка ошибок.
-      *    Ссылка на проект: [https://github.com/7Hunter7/Node_JS.git](https://github.com/7Hunter7/Node_JS.git)
-      *    **Навыки:** JavaScript, Node.js, Postman, REST, RESTful API
+      *    **Навыки:** JavaScript, Node.js, Postman, REST, RESTful API [https://github.com/7Hunter7/Node_JS.git](https://github.com/7Hunter7/Node_JS.git)
 *   **JavaScript. Уровень 2. Продвинутый курс** (Январь 2024 - Май 2024):
     *    Получил навыки работы с объектами и функциями, циклами и массивами, DOM и событиями, шаблонизацией, JSON, медиа и API, асинхронностью.
     *   **Навыки:** JavaScript (ECMAScript 2023).
