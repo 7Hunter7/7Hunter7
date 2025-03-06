@@ -25,7 +25,7 @@
 **Backend:**
 *   Node.js (Express.js)
 *   REST API
-*   Работа с базами данных (SQLite, MongoDB)
+*   Работа с базами данных (SQLite, MongoDB, Firebase)
 
 **Инструменты:**
 *   ESLint, Prettier (линтеры и форматировщики кода)
