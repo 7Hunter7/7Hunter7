@@ -44,7 +44,7 @@
 
 
 ### 1. Interno (SPA на Vue.js)
-*   **Описание:** Веб-сайт “Interno” - демонстрация интерьерных решений, разработан на Vue.js.
+*   **Описание:** Веб-сайт "Interno" - демонстрация интерьерных решений, разработан на Vue.js.
 *   **Ключевые особенности:** Компонентная структура, Vue-Router для навигации, Vuex для управления состоянием.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Interno](https://github.com/7Hunter7/Interno)
 *   **Демо:** [https://www.interno.app/](https://interno-blond.vercel.app/)
@@ -75,26 +75,26 @@
 
 ### 6. Inventory App (SPA на Vue.js 3, Pinia и SCSS)
 *   **Описание:** Веб-приложение для управления инвентарем, разработанное на Vue.js 3 с применением Pinia
-*   **Ключевые особенности**: drag-and-drop интерфейс, кастомные анимации, сохранение состояния, и удобные модальные окна c анимацией появления и скрытия.
-*   **Ссылка на репозиторий:**: [https://github.com/7Hunter7/Inventory.git](https://github.com/7Hunter7/Inventory.git)
-*   **Демо:**: [https://www.inventory.app](https://iridescent-creponne-d14c43.netlify.app/)
+*   **Ключевые особенности:** drag-and-drop интерфейс, кастомные анимации, сохранение состояния, и модальные окна c анимацией появления и скрытия.
+*   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Inventory.git](https://github.com/7Hunter7/Inventory.git)
+*   **Демо:** [https://www.inventory.app](https://iridescent-creponne-d14c43.netlify.app/)
 
 ### 7. Seminar Management App (SPA на React)
 *   **Описание:** Приложение для управления списком семинаров. Позволяет просматривать, добавлять, редактировать и удалять информацию о семинарах.
-*   **Ключевые особенности**: Компонентная структура, React Hooks, Data URL для хранения изображений, REST API на базе json-server.
-*   **Ссылка на репозиторий:**: [https://github.com/7Hunter7/Seminars.git](https://github.com/7Hunter7/Seminars.git)
+*   **Ключевые особенности:** Компонентная структура, React Hooks, Data URL для хранения изображений, REST API на базе json-server.
+*   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Seminars.git](https://github.com/7Hunter7/Seminars.git)
 *   **Демо:** Демо отсутствует.
 
 ### 8. Account management (SPA на Vue.js, TypeScript, Pinia, Vuetify)
 *   **Описание:** Веб-приложение для управления учетными записями, разработанное на Vue.js 3 с использованием TypeScript, Pinia для управления состоянием и Vuetify для UI.
-*   **Ключевые особенности**: Добавление, редактирование и удаление учетных записей, валидация форм, динамическое отображение поля пароля, сохранение данных в Pinia с persist, использование интерфейса Account и преобразование меток.
+*   **Ключевые особенности:** Добавление, редактирование и удаление учетных записей, валидация форм, динамическое отображение поля пароля, сохранение данных в Pinia с persist, использование интерфейса Account и преобразование меток.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Account-management.git](https://github.com/7Hunter7/Accounts-management.git)
 *   **Демо:** [https://account-managment.app](https://account-managment.netlify.app/)
 
 
 ### 9. Interview List App (SPA на Vue.js, TypeScript, Pinia, Firebase, PrimeVue)
 *   **Описание:** Веб-приложение для отслеживания процесса прохождения собеседований, разработанное на Vue.js 3 с использованием TypeScript, Pinia для управления состоянием, Firebase для аутентификации и хранения данных и PrimeVue для UI.
-*   **Ключевые особенности**: Аутентификация пользователей, добавление, редактирование и удаление данных о собеседованиях, отслеживание этапов, запись результатов, фильтрация списка собеседований, визуализация статистики.
+*   **Ключевые особенности:** Аутентификация пользователей, добавление, редактирование и удаление данных о собеседованиях, отслеживание этапов, запись результатов, фильтрация списка собеседований, визуализация статистики.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Interview_List.git](https://github.com/7Hunter7/Interview_List.git)
 *   **Демо:** Демо отсутствует.
 
