@@ -14,7 +14,7 @@
 ## Технологии:
 
 **Frontend:**
-*   Vue.js (Composition API, Vuex/Pinia, Vue Router)
+*   Vue.js (Options API, Composition API, Vuex/Pinia, Vue Router)
 *   Vuetify (UI фреймворк)
 *   React (React Redux, React Router)
 *   HTML5
