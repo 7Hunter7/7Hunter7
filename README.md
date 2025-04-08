@@ -98,7 +98,7 @@
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Interview_List.git](https://github.com/7Hunter7/Interview_List.git)
 *   **Демо:** [https://interview_list.app](https://interviewlist.vercel.app/).
 
-### 10. Каталог VIP-объектов ITRIELT (Frontend на HTML, SCSS, JavaScript)
+### 10. ITRIELT VIP (Frontend на HTML, SCSS, JavaScript)
 *   **Описание:** Веб-приложение для демонстрации VIP-объектов недвижимости, с возможностью просмотра, сортировки и добавления в избранное.
 *   **Ключевые особенности:** Адаптивный дизайн, сортировка объектов по цене и площади, добавление в избранное с сохранением в localStorage, имитация статус-бара мобильных устройств, динамическая подгрузка объектов, Action Sheet (контекстное меню) с функциональностью добавления в избранное и множественного выбора.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/ITRIELT_VIP.git](https://github.com/7Hunter7/ITRIELT_VIP.git)
