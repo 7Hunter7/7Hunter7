@@ -16,6 +16,7 @@
 **Frontend:**
 *   Vue.js (Options API, Composition API, Vuex/Pinia, Vue Router)
 *   Vuetify (UI фреймворк)
+*   Tailwind (современный фреймворк, использующий все новейшие и лучшие функции CSS)
 *   React (React Redux, React Router)
 *   HTML5
 *   CSS3 (SCSS, BEM)
