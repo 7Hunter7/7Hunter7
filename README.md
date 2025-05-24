@@ -49,7 +49,7 @@
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Interno](https://github.com/7Hunter7/Interno)
 *   **Демо:** [https://www.interno.app/](https://interno-blond.vercel.app/)
 
-### 2.  SecurityCode (Fullstack на Vue.js, SQLite)
+### 2.  SecurityCode (Pet-проект на Vue.js, SQLite)
 *   **Описание:** Веб-приложение для учета средств индивидуальной защиты (СИЗ), разработано на Vue.js с использованием SQLite для хранения данных (в разработке).
 *   **Ключевые особенности:**  Учет и инвентаризация СИЗ, формирование истории изменений, регистрация и аутентификация, разделение прав пользователей.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/SecurityCode](https://github.com/7Hunter7/SecurityCode)
@@ -90,7 +90,6 @@
 *   **Ключевые особенности:** Добавление, редактирование и удаление учетных записей, валидация форм, динамическое отображение поля пароля, сохранение данных в Pinia с persist, использование интерфейса Account и преобразование меток.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Account-management.git](https://github.com/7Hunter7/Accounts-management.git)
 *   **Демо:** [https://account-managment.app](https://account-managment.netlify.app/)
-
 
 ### 9. Interview List App (SPA на Vue.js, TypeScript, Pinia, Firebase, PrimeVue)
 *   **Описание:** Веб-приложение для отслеживания процесса прохождения собеседований, разработанное на Vue.js 3 с использованием TypeScript, Pinia для управления состоянием, Firebase для аутентификации и хранения данных и PrimeVue для UI.
