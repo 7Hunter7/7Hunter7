@@ -14,14 +14,14 @@
 ## Технологии:
 
 **Frontend:**
-*   Vue.js (Options API, Composition API, Vuex/Pinia, Vue Router)
-*   Vuetify (UI фреймворк)
-*   Tailwind (современный фреймворк, использующий все новейшие и лучшие функции CSS)
-*   React (React Redux, React Router)
 *   HTML5
 *   CSS3 (SCSS, BEM)
 *   JavaScript (ECMAScript 2023 - ECMAScript 2024)
 *   TypeScript
+*   Vue.js (Options API, Composition API, Vuex/Pinia, Vue Router)
+*   React (React Redux, React Router)
+*   Vuetify (UI фреймворк)
+*   Tailwind
 
 **Backend:**
 *   Node.js (Express.js)
