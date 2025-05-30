@@ -119,7 +119,7 @@
 ### 13. Best Sneakers (SPA на Vue.js 3, TailwindCSS, Vite)
 *   **Описание:** Одностраничное приложение интернет-магазина кроссовок, разработанное на Vue 3 с использованием TailwindCSS и Vite. Пользователь может просматривать каталог, добавлять товары в корзину и в избранное, а также оформлять заказы (эмуляция).
 *   **Ключевые особенности:** Карточки товаров с лайком и добавлением, анимированная корзина (Drawer), сохранение данных в localStorage, сортировка и поиск, анимации с auto-animate, работа с REST API на базе Mokky.
-*   **Ссылка на репозиторий:** [https://github.com/7Hunter7/CRM-system.git](https://github.com/7Hunter7/Sneakers_App.git)
+*   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Sneakers_App.git](https://github.com/7Hunter7/Sneakers_App.git)
 *   **Демо:** [https://best-sneakers.app](https://best-sneakers-app.netlify.app/)
 
 ## Образование:
