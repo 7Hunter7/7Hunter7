@@ -122,6 +122,18 @@
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Sneakers_App.git](https://github.com/7Hunter7/Sneakers_App.git)
 *   **Демо:** [https://best-sneakers.app](https://best-sneakers-app.netlify.app/)
 
+
+## 📦 Мои npm пакеты
+
+### Vue CSV Exporter
+Профессиональная библиотека для экспорта данных в CSV. **Zero dependencies (29,5kB)**, поддержка кириллицы в Excel, Vue 2/3, TypeScript. Используется в реальных проектах.
+🔗 [npm](https://www.npmjs.com/package/vue-csv-exporter) | [GitHub](https://github.com/7Hunter7/vue-csv-exporter)
+
+### Vue Click Outside Next
+Профессиональная директива v-click-outside. Оптимизированная, с middleware и специальной поддержкой модалок. **Zero dependencies (19.5kB)**, Vue 2/3, TypeScript.
+🔗 [npm](https://www.npmjs.com/package/vue-click-outside-next) | [GitHub](https://github.com/7Hunter7/vue-click-outside)
+
+
 ## Образование:
 
 *   **2022:** ЧОУ ДПО "Ивановский УЦ "Энергетик", Управление персоналом: 5 Сертификатов о прохождении курсов. 
