@@ -133,6 +133,9 @@
 Профессиональная директива v-click-outside. Оптимизированная, с middleware и специальной поддержкой модалок. **Zero dependencies (19.5kB)**, Vue 2/3, TypeScript. Используется в реальных проектах.
 🔗 [npm](https://www.npmjs.com/package/vue-click-outside-next) | [GitHub](https://github.com/7Hunter7/vue-click-outside)
 
+### Inn Validator
+Профессиональная валидация ИНН и КПП согласно официальным требованиям ФНС РФ. **Zero dependencies (49.8 kB)**, поддержка новых правил с 2026 года, Vue миксины, TypeScript. 124/132 теста пройдено (94%).
+🔗 [npm](https://www.npmjs.com/package/inn-validator) | [GitHub](https://github.com/7Hunter7/inn-validator)
 
 ## Образование:
 
