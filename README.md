@@ -130,7 +130,7 @@
 🔗 [npm](https://www.npmjs.com/package/vue-csv-exporter) | [GitHub](https://github.com/7Hunter7/vue-csv-exporter)
 
 ### Vue Click Outside Next
-Профессиональная директива v-click-outside. Оптимизированная, с middleware и специальной поддержкой модалок. **Zero dependencies (19.5kB)**, Vue 2/3, TypeScript. Используется в реальных проектах.
+Профессиональная директива v-click-outside. Оптимизированная, с middleware и специальной поддержкой модалок. **Zero dependencies (25.6 kB)**, Vue 2/3, TypeScript. Используется в реальных проектах.
 🔗 [npm](https://www.npmjs.com/package/vue-click-outside-next) | [GitHub](https://github.com/7Hunter7/vue-click-outside)
 
 ### Inn Validator
