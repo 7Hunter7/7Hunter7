@@ -125,13 +125,13 @@
 
 ## 📦 Мои npm пакеты
 
+### Vue Click Outside
+Профессиональная директива v-click-outside. Оптимизированная, с middleware и специальной поддержкой модалок. **Zero dependencies (25.6 kB)**, Vue 2/3, TypeScript. Используется в реальных проектах.
+🔗 [npm](https://www.npmjs.com/package/vue-click-outside-next) | [GitHub](https://github.com/7Hunter7/vue-click-outside)
+
 ### Vue CSV Exporter
 Профессиональная библиотека для экспорта данных в CSV. **Zero dependencies (29,5kB)**, поддержка кириллицы в Excel, Vue 2/3, TypeScript. Используется в реальных проектах.
 🔗 [npm](https://www.npmjs.com/package/vue-csv-exporter) | [GitHub](https://github.com/7Hunter7/vue-csv-exporter)
-
-### Vue Click Outside Next
-Профессиональная директива v-click-outside. Оптимизированная, с middleware и специальной поддержкой модалок. **Zero dependencies (25.6 kB)**, Vue 2/3, TypeScript. Используется в реальных проектах.
-🔗 [npm](https://www.npmjs.com/package/vue-click-outside-next) | [GitHub](https://github.com/7Hunter7/vue-click-outside)
 
 ### Inn Validator
 Профессиональная валидация ИНН и КПП согласно официальным требованиям ФНС РФ. **Zero dependencies (49.8 kB)**, поддержка новых правил с 2026 года, Vue миксины, TypeScript. 124/132 теста пройдено (94%).
