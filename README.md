@@ -126,19 +126,19 @@
 ## 📦 Мои npm пакеты
 
 ### Vue Click Outside
-Профессиональная директива v-click-outside. Оптимизированная, с middleware и специальной поддержкой модалок. **Zero dependencies (25.6 kB)**, Vue 2/3, TypeScript. Используется в реальных проектах.
+Профессиональная директива v-click-outside. Оптимизированная, с middleware и специальной поддержкой модалок. **Zero dependencies (12,3 kB)**, Vue 2/3, TypeScript. Используется в реальных проектах.
 🔗 [npm](https://www.npmjs.com/package/vue-click-outside-next) | [GitHub](https://github.com/7Hunter7/vue-click-outside)
 
 ### Vue CSV Exporter
-Профессиональная библиотека для экспорта данных в CSV. **Zero dependencies (29,5kB)**, поддержка кириллицы в Excel, Vue 2/3, TypeScript. Используется в реальных проектах.
+Профессиональная библиотека для экспорта данных в CSV. **Zero dependencies (8,6 kB)**, поддержка кириллицы в Excel, Vue 2/3, TypeScript. Используется в реальных проектах.
 🔗 [npm](https://www.npmjs.com/package/vue-csv-exporter) | [GitHub](https://github.com/7Hunter7/vue-csv-exporter)
 
 ### Inn Validator
-Профессиональная валидация ИНН и КПП согласно официальным требованиям ФНС РФ. **Zero dependencies (49.8 kB)**, поддержка новых правил с 2026 года, Vue миксины, TypeScript. 124/132 теста пройдено (94%).
+Профессиональная валидация ИНН и КПП согласно официальным требованиям ФНС РФ. **Zero dependencies (20,6 kB)**, поддержка новых правил с 2026 года, Vue миксины, TypeScript. 124/132 теста пройдено (94%).
 🔗 [npm](https://www.npmjs.com/package/inn-validator) | [GitHub](https://github.com/7Hunter7/inn-validator)
 
 ### Web Printer SDK 🆕
-Профессиональный SDK для подключения принтеров к веб-приложениям. Поддерживает WiFi, Bluetooth, USB и термические принтеры. **Zero dependencies (19.8 kB)**, ESC/POS и ZPL команды, Vue 2/3, TypeScript. 66/76 тестов пройдено (87%).
+Профессиональный SDK для подключения принтеров к веб-приложениям. Поддерживает WiFi, Bluetooth, USB и термические принтеры. **ONE dependency (26,2 kB)**, ESC/POS и ZPL команды, Vue 2/3, TypeScript. 66/76 тестов пройдено (87%).
 🔗 [npm](https://www.npmjs.com/package/web-printer-sdk) | [GitHub](https://github.com/7Hunter7/web-printer-sdk)
 
 ## Образование:
