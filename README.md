@@ -137,6 +137,10 @@
 Профессиональная валидация ИНН и КПП согласно официальным требованиям ФНС РФ. **Zero dependencies (49.8 kB)**, поддержка новых правил с 2026 года, Vue миксины, TypeScript. 124/132 теста пройдено (94%).
 🔗 [npm](https://www.npmjs.com/package/inn-validator) | [GitHub](https://github.com/7Hunter7/inn-validator)
 
+### Web Printer SDK 🆕
+Профессиональный SDK для подключения принтеров к веб-приложениям. Поддерживает WiFi, Bluetooth, USB и термические принтеры. **Zero dependencies (19.8 kB)**, ESC/POS и ZPL команды, Vue 2/3, TypeScript. 66/76 тестов пройдено (87%).
+🔗 [npm](https://www.npmjs.com/package/web-printer-sdk) | [GitHub](https://github.com/7Hunter7/web-printer-sdk)
+
 ## Образование:
 
 *   **2022:** ЧОУ ДПО "Ивановский УЦ "Энергетик", Управление персоналом: 5 Сертификатов о прохождении курсов. 
