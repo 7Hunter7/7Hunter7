@@ -34,7 +34,7 @@
 *   Nodemailer (отправка email-уведомлений)
 
 **DevOps / Инфраструктура:**
-*   Docker, Docker Compose (4 контейнера: Nginx, Express, PostgreSQL, Redis)
+*   Docker, Docker Compose (контейнеры: Nginx, Express, PostgreSQL, Redis)
 *   Nginx (reverse proxy, SSL, HTTP/2)
 *   Let's Encrypt (Certbot) — автообновление SSL-сертификатов
 *   Cron — автоматический бекап БД
@@ -99,8 +99,8 @@
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/Weather_App.git](https://github.com/7Hunter7/Weather_App.git)
 *   **Демо:** [https://my-climate-control.netlify.app/](https://my-climate-control.netlify.app/)
 
-### 8. ITRIELT VIP (Frontend на HTML, SCSS, JavaScript)
-*   **Описание:** Веб-приложение для демонстрации VIP-объектов недвижимости.
+### 8. ITRIELT (Frontend на HTML, SCSS, JavaScript)
+*   **Описание:** Веб-приложение для демонстрации объектов недвижимости.
 *   **Ключевые особенности:** Адаптивный дизайн, сортировка, избранное, Action Sheet.
 *   **Ссылка на репозиторий:** [https://github.com/7Hunter7/ITRIELT_VIP.git](https://github.com/7Hunter7/ITRIELT_VIP.git)
 *   **Демо:** [https://itrielt-vip.netlify.app](https://itrielt-vip.netlify.app)
