@@ -16,7 +16,7 @@
 **Frontend:**
 *   HTML5
 *   CSS3 (SCSS, BEM)
-*   JavaScript (ECMAScript 2023 - ECMAScript 2024)
+*   JavaScript (ECMAScript 2023 - ECMAScript 2025)
 *   TypeScript
 *   Vue.js (Options API, Composition API, Vuex/Pinia, Vue Router)
 *   React (React Redux, React Router)
