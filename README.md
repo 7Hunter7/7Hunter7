@@ -1,14 +1,24 @@
-# Привет! 👋 Меня зовут Иван Калугин и я Fullstack-разработчик
+# Привет! 👋 Меня зовут Иван Калугин
+**Fullstack-разработчик** | Vue/React + Node.js/Express + PostgreSQL/MySQL | **Удалённо**
 
-Моя цель — не просто разрабатывать веб-приложения, а создавать легкие, эффективные и удобные решения для пользователей.
-Я стремлюсь к постоянному развитию, изучению новых технологий и совершенствованию своих навыков.
+### Коротко обо мне
 
-## Обо мне:
+- **2+ года** коммерческого опыта (ITRIELT + собственный проект).
+- Разработал и задеплоил **production-приложение SecurityCode** (свидетельство Роспатента №2026682224) — полный цикл: архитектура, фронтенд, бэкенд, DevOps.
+- **PostgreSQL в production:** схема данных, Sequelize ORM, миграции, транзакции, индексы, оптимизация запросов, автоматический бекап, кэширование Redis.
+- **4 npm-пакета** на TypeScript с покрытием тестами (Inn Validator — 94%, Web Printer SDK — 87%).
+- **Ищу удалённую работу.** Готов к тестовому заданию.
 
-*   Fullstack-разработчик с опытом создания и оптимизации веб-приложений на Vue.js и React.
-*   Обладаю уверенными навыками HTML, CSS, JavaScript, включая работу с современными фреймворками и методологиями.
-*   Имею опыт развёртывания production-приложений на VPS с Docker, настройки Nginx, SSL (Let's Encrypt), PostgreSQL, Redis.
-*   Ориентирован на создание адаптивных и кроссбраузерных интерфейсов.
+**Ключевой стек:** TypeScript, Vue 2/3, React, Node.js/Express, PostgreSQL/MySQL, Redis, Docker, REST API, JWT+2FA.
+
+**Ссылки:**
+- **GitHub:** [github.com/7Hunter7](https://github.com/7Hunter7)
+- **Демо SecurityCode:** [mysecuritycode.ru](https://mysecuritycode.ru)
+- **Telegram:** [@Ivan_Anatolievich_Kalugin](https://t.me/Ivan_Anatolievich_Kalugin)
+
+## Дополнительно:
+
+*   Ориентирован на создание современных адаптивных и кроссбраузерных интерфейсов.
 *   Активно изучаю новые технологии.
 *   Имею опыт работы как в команде, так и самостоятельно, проявляя проактивный подход к решению задач.
 
@@ -28,7 +38,7 @@
 **Backend:**
 *   Node.js (Express.js)
 *   REST API
-*   Работа с базами данных (PostgreSQL, SQLite, MongoDB, Firebase)
+*   Работа с базами данных (PostgreSQL, MySQL, SQLite, MongoDB, Firebase)
 *   Sequelize ORM
 *   JWT аутентификация + 2FA
 *   Nodemailer (отправка email-уведомлений)
