@@ -9,7 +9,7 @@
 - **4 npm-пакета** на TypeScript с покрытием тестами (Inn Validator — 94%, Web Printer SDK — 87%).
 - **Ищу удалённую работу.** Готов к тестовому заданию.
 
-**Ключевой стек:** TypeScript, Vue 2/3, React, Node.js/Express, PostgreSQL/MySQL, Redis, Docker, REST API, JWT+2FA.
+**Ключевой стек:** TypeScript, Vue 2/3, React, Node.js/Express, REST API, PostgreSQL/MySQL, Redis, Docker.
 
 **Ссылки:**
 - **GitHub:** [github.com/7Hunter7](https://github.com/7Hunter7)
@@ -32,8 +32,8 @@
 *   Vue.js (Options API, Composition API, Vuex/Pinia, Vue Router)
 *   React (React Redux, React Router)
 *   RxDB (офлайн-база данных)
-*   Vuetify (UI фреймворк)
-*   Tailwind
+*   Tailwind, Vuetify, Bulma
+*   
 
 **Backend:**
 *   Node.js (Express.js)
@@ -62,8 +62,8 @@
 **Прочее:**
 *   Адаптивная и кроссбраузерная верстка
 *   UX/UI дизайн
-*   Работа с VPS (Beget, Ubuntu)
-*   Шифрование данных (AES-256-CBC)
+*   Работа с VPS (Ubuntu)
+*   Шифрование данных
 
 ## Мои проекты:
 
